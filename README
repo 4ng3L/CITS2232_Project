@@ -17,4 +17,6 @@ git log
 so that you can see what changes any other group members have made.
 
 DON'T PUSH TOO OFTEN...
-Pushing will put stuff upstream.
+Pushing will put stuff upstream. That might not necessarily be good. Start off
+by committing a lot of times to keep a track of what you've done, but push
+upstream when you're confident that your work is good.
