@@ -9,3 +9,9 @@ COMMIT OFTEN.
 Keep on pushing stuff up the stream. It will make our development logs look more
 pretty, and more awesome, but it will mean we have more versions of code we
 can go back to in the event we want to change something.
+
+PULL OFTEN.
+When you begin your session of work, pull the latest version from the
+repositories, and check the development log using
+git log
+so that you can see what changes any other group members have made.
