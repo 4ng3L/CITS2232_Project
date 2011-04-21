@@ -1,1 +1,11 @@
-BLAH BLAH BLAH SAMPLE
+Hi all, this is the README for our current project status, which will be updated
+as things progress.
+
+PLEASE MAKE SURE YOU LOG CHANGES TO THE CODE THAT YOU MAKE.
+When you do decide to commit something, please try your best to use
+git commit -m "A concise, informative message about the changes you made"
+
+COMMIT OFTEN.
+Keep on pushing stuff up the stream. It will make our development logs look more
+pretty, and more awesome, but it will mean we have more versions of code we
+can go back to in the event we want to change something.
