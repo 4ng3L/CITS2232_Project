@@ -6,7 +6,7 @@ When you do decide to commit something, please try your best to use
 git commit -m "A concise, informative message about the changes you made"
 
 COMMIT OFTEN.
-Keep on pushing stuff up the stream. It will make our development logs look more
+Keep on logging the changes made! It will make our development logs look more
 pretty, and more awesome, but it will mean we have more versions of code we
 can go back to in the event we want to change something.
 
@@ -15,3 +15,6 @@ When you begin your session of work, pull the latest version from the
 repositories, and check the development log using
 git log
 so that you can see what changes any other group members have made.
+
+DON'T PUSH TOO OFTEN...
+Pushing will put stuff upstream.
